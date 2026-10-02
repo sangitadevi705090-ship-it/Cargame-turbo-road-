@@ -1,0 +1,7 @@
+echo "# Cargame-turbo-road-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sangitadevi705090-ship-it/Cargame-turbo-road-.git
+git push -u origin main
